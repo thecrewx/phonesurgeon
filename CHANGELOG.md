@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.0] - 2026-08-20
 
 ### 💥 Major Architectural Rewrite
-- Complete architectural redesign and rebrand from **DroidCommander** to **PhoneSurgeon — Advanced ADB Toolkit**.
+- Complete architectural redesign and rebrand from **PhoneSurgeon — Advanced ADB Toolkit**.
 - Migrated from a monolithic single-file script to a modular, extensible architecture with a clean `core/` runtime and 16 standalone domain modules in `modules/`.
 - Codebase expanded from ~1,200 lines to **16,100+ lines of pure Python** with **200+ ADB and Fastboot commands**.
 - Zero external third-party dependencies (`requirements.txt` is empty; 100% Python standard library).
