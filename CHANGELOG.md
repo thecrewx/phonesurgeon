@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [2.0.0] - 2026-08-20
+## [2.0.0]
 
 ### 💥 Major Architectural Rewrite
 - Complete architectural redesign and rebrand from **PhoneSurgeon — Advanced ADB Toolkit**.
@@ -59,10 +59,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.0] - 2026-08-19
+## [1.0.0] 
 
-### 🚀 Initial Release (as DroidCommander)
-- Initial public release as **DroidCommander**, a single-file interactive ADB utility.
+### 🚀 Initial Release 
+- Initial public release as a single-file interactive ADB utility.
 - Included 8 foundational ADB modules:
   - 📱 Basic Device Information (`getprop` dump)
   - 📦 Simple Package Manager (install, uninstall, list packages)
