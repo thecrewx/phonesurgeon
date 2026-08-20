@@ -34,7 +34,7 @@ On first run, PhoneSurgeon will:
 ---
 
 ## ⚡ Features
-see - [(https://github.com/thecrewx/phonesurgeon/blob/main/FEATURES.md)]
+see - [FEATURES](FEATURES.md).
 
 ---
 
@@ -133,4 +133,4 @@ This tool is a convenience wrapper around Google's official ADB/Fastboot command
 
 ## 📄 License
 
-MIT License
+MIT — see [LICENSE](LICENSE).
