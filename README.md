@@ -8,6 +8,11 @@ A powerful, feature-rich, menu-driven ADB (Android Debug Bridge) toolkit for And
 
 **Auto-installs everything it needs.** Just run it.
 
+
+# All variations
+
+**see** - [CHANGELOG](CHANGELOG.md).
+
 ---
 
 ## 🚀 Quick Start
