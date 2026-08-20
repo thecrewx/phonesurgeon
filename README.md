@@ -151,4 +151,4 @@ This tool is a convenience wrapper around Google's official ADB/Fastboot command
 
 ## 📄 License
 
-MIT License
+MIT — see [LICENSE](LICENSE).
