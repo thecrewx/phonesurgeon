@@ -19,7 +19,7 @@ A powerful, feature-rich, menu-driven ADB (Android Debug Bridge) toolkit for And
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PhoneSurgeon.git
+git clone https://github.com/thecrewx/PhoneSurgeon.git
 cd PhoneSurgeon
 
 # Run it — that's it!
